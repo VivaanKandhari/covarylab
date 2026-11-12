@@ -2,7 +2,6 @@
 
 A browser-local measurement notebook for student science labs. It checks physical dimensions, tracks **shared error sources**, computes first-order uncertainty with automatic differentiation, and compares that approximation with a reproducible normal-model simulation.
 
-New project implementation began **31 October 2026 after 17:13 HKT**, within the STEMergent build window. Sole entrant: Vivaan Kandhari. AI assistance was used for implementation, documentation and checks. No student testing, deployment adoption or experimental findings are claimed.
 
 ## Run
 
